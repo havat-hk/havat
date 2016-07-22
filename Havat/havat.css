@@ -1,0 +1,102 @@
+
+#firstDiv{
+	text-align:center;
+	color:red;
+	background-color:white;
+	
+	height:100px;
+	width:px;
+	font-family:Forte;
+	font-size:40px;
+	
+	
+}
+
+#menu li a{
+	text-decoration:none;
+	
+}
+#menu{
+	background-color:white;
+	padding:50px;
+	
+	margin-left:50px;
+	padding:50px;
+}
+#menu li{
+	display:inline;
+	background-color:rgba(0,255,0, 0.3);
+	font-size:20px;
+	padding:10px 5px;
+	
+}
+#menu li:hover{
+	background-color:rgba(0,275,0, 0.3);
+	font-size:22px;
+	padding:15px 7.5px;
+}
+
+p, h1{
+	text-align:center;
+}
+#firstP{
+	font-size:20px;
+	color:red;
+}
+
+#1h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+}
+#2h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+}
+#secondP{
+	font-size:20px;
+	color:red;
+}
+#3h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+}
+#thirdP{
+	font-size:20px;
+	color:red;
+}
+#4h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+}
+#fourthP{
+	font-size:20px;
+	color:red;
+}
+#5h1{
+	color:red;
+	font-size:39px;
+	font-family:Forte;
+}
+#fifthP{
+	font-size:20px;
+	color:red;
+}
+img{
+	margin-left:100px;
+}
+#undefined{
+	font-size:20px;
+}
+#cank{
+	margin-left:100px;
+	
+}
+
+#footer{
+	font-size:15px;
+	color:grey;
+}
